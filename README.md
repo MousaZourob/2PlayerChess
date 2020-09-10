@@ -7,8 +7,6 @@ A 2 player chess game created using **Java** and the **Board GUI** library. Play
 * Legal move checker forcing players to only make legal moves
 * Outcome resolver stating the winner and ending the game after an opposing king is taken
 
-<br>
-
 ### Demo:
 ![chessDemo](https://user-images.githubusercontent.com/66835262/87099622-415f7500-c218-11ea-97c6-c1f8029cf41e.png)
 
