@@ -3,7 +3,7 @@
 A 2 player chess game created using **Java** and the **Board GUI** library. Players can move the chess pieces by clicking on the GUI, and a player wins by taking the opposing king. 
 
 ### Features:
-* Placing moves using a GUI by clicking on a piece and the square the piece should move to
+* Placing moves using a GUI by clicking on a piece and a legal square the piece could move to
 * Legal move checker forcing players to only make legal moves
 * Outcome resolver stating the winner and ending the game after an opposing king is taken
 
